@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POC-ExoKotlin</string>
+    <string name="playback_channel_name">Playback</string>
+    <string name="playback_channel_description">Description</string>
+</resources>
